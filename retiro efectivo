@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="es">
+<head>
+	<link rel="stylesheet"  href= "bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href= "bootstrap/css/bootstrap-theme.min.css">
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<link rel="stylesheet"  href="estilos2.css.">
+	<title>transacciones</title>
+	<meta charset=utf8>
+</head>
+<header>
+    <h2>ESCOJA LA TRANSACCIÓN A REALIZAR</h2>
+</header>
+<body>
+    <div id="caja1">
+        <button id="boton1" type="button" class="btn btn-success btn-lg">RETIRO CUENTA DE AHORROS</button>
+        <button id="boton2" type="button" class="btn btn-success btn-lg">SALDO CUENTA DE AHORROS</button>
+    </div>
+    <div id="caja2">
+        <button id="boton3" type="button" class="btn btn-success btn-lg">RETIRO CUENTA CORRIENTE</button>
+        <button id="boton4" type="button" class="btn btn-success btn-lg">SALDO CUENTA CORRIENTE</button>
+    </div>
+    <div id="caja3">
+        <button id="boton5" type="button" class="btn btn-success btn-lg">TRANSFERENCIAS</button>
+        <button id="boton6" type="button" class="btn btn-success btn-lg">CAMBIO DE CLAVE</button>
+    </div>
+    <div id="caja4">
+        <button type="submit" class="btn btn-primary" href="#">Aceptar</button>
+        <button type="submit" class="btn btn-primary">Cancelar</button>
+    </div>
+</body>
+</html>

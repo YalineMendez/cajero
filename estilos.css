@@ -1,0 +1,36 @@
+body {
+	background:#FFD332;
+    padding: 5%;
+}
+header h1{
+    color:white;
+    font-size: 60px;
+    text-align: center;
+    text-shadow: -1px -1px 0 #000, 1px -1px 0 #000,-1px 1px 0 #000, 1px 1px 0 #000;
+}
+form{
+    color:black;
+    font-size: 30px;
+}
+#cajon{
+    text-align: center;
+    color: black;
+    font-size: 30px;
+    text-align: center; 
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff,-1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+#cajon1{
+    text-align: center;
+    padding: 10px;
+    color: black;
+    font-size: 30px;
+    text-align: center; 
+    text-shadow: -1px -1px 0 #fff, 1px -1px 0 #fff,-1px 1px 0 #fff, 1px 1px 0 #fff;
+}
+#icono{
+    height: 150px;
+    width: 150px;
+    background-position: 50%;
+    border-radius: 600%;
+    background-size: 100% auto;
+}
